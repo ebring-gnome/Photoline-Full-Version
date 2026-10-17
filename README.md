@@ -256,4 +256,4 @@ This repository serves as the official landing page for PhotoLine. The software 
 **Get the most recent version of PhotoLine today!**
 
 ---
-**Last updated:** 2026-10-16 22:23:50 UTC
+**Last updated:** 2026-10-17 00:57:23 UTC
